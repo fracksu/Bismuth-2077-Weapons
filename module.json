@@ -1,0 +1,31 @@
+{
+  "id": "bismuth-2077-weapons",
+  "title": "Bismuth 2077 Weapons",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "description": "A compendium with item entries for every weapon released in the 2077 Weapons DLC on the Bismuth Living Community Server. Last updated 10/24/2025.",
+  "download": "https://www.dropbox.com/scl/fi/3ovpvbg8leb79xjj4h378/bismuth-2077-weapons.zip?rlkey=ge1qdawxtbnh7lo3txdn9b38f&st=9011u1xp&dl=0",
+  "authors": [
+    {
+      "name": "fracks",
+      "discord": "fracks",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "2077-weapons",
+      "label": "Bismuth 2077 Weapons",
+      "path": "packs/2077-weapons",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
